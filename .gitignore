@@ -88,3 +88,6 @@ local.properties
 #.project
 # Project exclude paths
 /target/
+
+# iml
+*.iml
