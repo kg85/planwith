@@ -11,6 +11,6 @@
     <title>index</title>
   </head>
   <body>
-    index page
+    index page 한글
   </body>
 </html>
